@@ -19,7 +19,7 @@ body {
 body > .container {
   position: relative;
   grid-template-columns: repeat(10, 1fr);
-  grid-template-rows: 86vh 48vh;
+  grid-template-rows: 66vh 34vh;
   grid-template-areas: "main-img main-img main-img main-img main-img main-img main-img-info main-img-info main-img-info main-img-info" "second-img second-img second-img second-img-info second-img-info second-img-info second-img-info third-img third-img third-img";
 }
 body > .container > .main-img {
